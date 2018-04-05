@@ -17,7 +17,6 @@ The goal of this playground is to bring awareness to color blindness by showing 
 import PlaygroundSupport
 import UIKit
 import CoreImage
-import AVFoundation
 
 //global variables:
 var visions : [String] = [
