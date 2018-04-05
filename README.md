@@ -1,6 +1,6 @@
 # WWDC 2018 Submission: Colorless
 
-This is my scholarship submission for WWDC 2018, I decided to make a playground about colour-blindness and how people with this condition ses the world.
+This is my scholarship submission for WWDC 2018, I decided to make a playground about colour-blindness and how people with this condition sees the world.
 
 To do so, I have used the CoreImage library to process the image 7 times for each type of colour-blindness.
 
